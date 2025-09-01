@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0D1117/FFFFFF?text=Data+Analysis+Expert+%26+AI+Specialist" alt="Header Banner"/>
+  <img src="http://googleusercontent.com/image_generation_content/3
+
+https://i.imgur.com/your-dark-background-banner.png" alt="Header Banner"/>
 </div>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Rakesh Roy] 👋</h1>
 <h3 align="center">Passionate Data Analyst & AI Expert</h3>
 
 ## 📊 About Me
@@ -19,7 +21,7 @@ I'm a **Data Analysis Expert** and **Data Analysis AI Expert** with a passion fo
 ### Databases & BI Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Libraries & Frameworks
@@ -56,12 +58,18 @@ I'm a **Data Analysis Expert** and **Data Analysis AI Expert** with a passion fo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn URL])
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([Facebook URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<a href="[LinkedIn URL]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 30px;"/>
+</a>
+<a href="[Facebook URL]" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="width: 150px; height: 30px;"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 150px; height: 30px;"/>
+</a>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
 </div>

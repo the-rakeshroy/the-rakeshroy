@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0D1117/FFFFFF?text=Data+Analysis+Expert" alt="Header Banner"/>
-</div>
+  
 
 <h1 align="center">Hi, I'm Rakesh Roy 👋</h1>
 <h3 align="center">Passionate Data Analyst</h3>
